@@ -25,3 +25,4 @@ D:\Workspace\deployment_test\obj\Debug\net9.0\refint\deployment_test.dll
 D:\Workspace\deployment_test\obj\Debug\net9.0\deployment_test.pdb
 D:\Workspace\deployment_test\obj\Debug\net9.0\deployment_test.genruntimeconfig.cache
 D:\Workspace\deployment_test\obj\Debug\net9.0\ref\deployment_test.dll
+D:\Workspace\deployment_test\obj\Debug\net9.0\deployment_test.sourcelink.json
